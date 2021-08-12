@@ -1,0 +1,56 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    background-color: #283345;
+    box-shadow: none! important;
+  
+}
+
+header{
+    background-color: #283345;
+   
+   
+}
+
+
+.navy{
+    background: #283345;
+}
+.navy-blue{
+    background-color: #cacaca;
+}
+
+.space{
+    height: 4rem;
+}
+
+.card-row{
+padding: 2rem;
+}
+
+
+.tech-blue{
+    background: #3871ff;
+}
+.tech{
+    background: #3871ff;
+    height: 20rem;
+    
+}
+
+
+.im{
+    size: 30px;
+}
+.tab{
+    padding-left: 13rem;
+    padding-right: 13rem;
+    padding-top: 5rem;
+}
+
+
+
+    /* .container .tecna{
+        background: none! important;
+    } */
+
+
